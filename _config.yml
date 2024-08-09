@@ -1,0 +1,74 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the 2024 AAAI Conference on Artificial Intelligence
+year: '2024'
+shortname: AI4Ed
+volume: '257'
+start: &1 2024-02-26
+end: 2024-02-27
+published: 2024-08-09
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ai4ed-proc
+month: 0
+tex_title: Proceedings of the AI for Education Workshop at AAAI 2024, Bridging Innovation
+  and Responsibility
+cycles: false
+bibtex_editor: ''
+editor: []
+description: |
+  Proceedings of the 2024 AAAI Conference on Artificial Intelligence
+    Held in Vancouver Convention Center, Vancouver, Canada on 26-27 February 2024
+
+  Published as Volume 257 by the Proceedings of Machine Learning Research on 09 August 2024.
+
+  Volume Edited by:
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 26--27 Feb
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v257"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v257
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v257
+email: ''
+conference:
+  name: AI for Education Workshop
+  url: https://ai4ed.cc/workshops/aaai2024
+  location: Vancouver Convention Center, Vancouver, Canada
+  dates:
+  - *1
+  - 2024-02-27
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v257/ai4ed-aaai24.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v257/ai4ed-aaai24.bib
