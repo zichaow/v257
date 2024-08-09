@@ -15,6 +15,14 @@ For details of what is required to submit a proceedings please check https://pro
 Published as Volume 257 by the Proceedings of Machine Learning Research on 09 August 2024.
 
 Volume Edited by:
+  * Muktha Ananda
+  * Debshila Basu Malick
+  * Jill Burstein
+  * Lydia T. Liu
+  * Zitao Liu
+  * James Sharpnack
+  * Zichao Wang
+  * Serena Wang
 
 Series Editors:
   * Neil D. Lawrence

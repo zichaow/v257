@@ -16,8 +16,25 @@ month: 0
 tex_title: Proceedings of the AI for Education Workshop at AAAI 2024, Bridging Innovation
   and Responsibility
 cycles: false
-bibtex_editor: ''
-editor: []
+bibtex_editor: Ananda, Muktha and Malick, Debshila Basu and Burstein, Jill and Liu,
+  Lydia T. and Liu, Zitao and Sharpnack, James and Wang, Zichao and Wang, Serena
+editor:
+- given: Muktha
+  family: Ananda
+- given: Debshila Basu
+  family: Malick
+- given: Jill
+  family: Burstein
+- given: Lydia T.
+  family: Liu
+- given: Zitao
+  family: Liu
+- given: James
+  family: Sharpnack
+- given: Zichao
+  family: Wang
+- given: Serena
+  family: Wang
 description: |
   Proceedings of the 2024 AAAI Conference on Artificial Intelligence
     Held in Vancouver Convention Center, Vancouver, Canada on 26-27 February 2024
@@ -25,6 +42,14 @@ description: |
   Published as Volume 257 by the Proceedings of Machine Learning Research on 09 August 2024.
 
   Volume Edited by:
+    Muktha Ananda
+    Debshila Basu Malick
+    Jill Burstein
+    Lydia T. Liu
+    Zitao Liu
+    James Sharpnack
+    Zichao Wang
+    Serena Wang
 
   Series Editors:
     Neil D. Lawrence
